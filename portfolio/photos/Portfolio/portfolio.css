@@ -1,0 +1,43 @@
+portfolio
+
+
+
+
+.head {
+    padding: 30px;
+    text-align: right;
+    background: #1D0024;
+    color: white;
+    font-size: 15px;
+    border-style: dotted;
+  }
+
+
+
+  .body {
+    padding: 60px;
+    text-align: right;
+    background: #1D0024;
+    color: white;
+    font-size: 20px;
+    border-style: outset;
+  }
+
+  
+   .body {
+    padding: 40px;
+    text-align: left;
+    background: #072300;
+    color: #E75480;
+    font-size: 20px;
+    border-style: outset;
+  }
+
+  .footer {
+    padding: 60px;
+    text-align: right;
+    background: #1D0024;
+    color: white;
+    font-size: 20px;
+    border-style: outset;
+  }
